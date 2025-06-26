@@ -1,0 +1,17 @@
+📊 Logistic Regression Evaluation for JPM_resampled_30min_with_labels
+Accuracy: 0.4928
+AUC: 0.5861
+
+Confusion Matrix:
+[[191  37]
+ [208  47]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.48      0.84      0.61       228
+           1       0.56      0.18      0.28       255
+
+    accuracy                           0.49       483
+   macro avg       0.52      0.51      0.44       483
+weighted avg       0.52      0.49      0.43       483

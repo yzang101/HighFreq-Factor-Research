@@ -1,0 +1,17 @@
+📊 Logistic Regression Evaluation for IBM_resampled_15min_with_labels
+Accuracy: 0.5345
+AUC: 0.5535
+
+Confusion Matrix:
+[[268 201]
+ [251 251]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.52      0.57      0.54       469
+           1       0.56      0.50      0.53       502
+
+    accuracy                           0.53       971
+   macro avg       0.54      0.54      0.53       971
+weighted avg       0.54      0.53      0.53       971

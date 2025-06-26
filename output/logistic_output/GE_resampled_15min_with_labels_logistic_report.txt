@@ -1,0 +1,17 @@
+📊 Logistic Regression Evaluation for GE_resampled_15min_with_labels
+Accuracy: 0.5314
+AUC: 0.5712
+
+Confusion Matrix:
+[[464  46]
+ [409  52]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.53      0.91      0.67       510
+           1       0.53      0.11      0.19       461
+
+    accuracy                           0.53       971
+   macro avg       0.53      0.51      0.43       971
+weighted avg       0.53      0.53      0.44       971

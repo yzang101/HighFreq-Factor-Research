@@ -1,0 +1,8 @@
+📋 LassoCV Factor Selection Report: PG_resampled_15min_with_labels
+
+Selected Factors with Non-zero Coefficients:
+tradecount_mom_3    -0.070082
+amt_mom_5           -0.007063
+cum_ret_10          -0.001275
+tradecount_mom_10   -0.001981
+tradecount_mom_20   -0.005302

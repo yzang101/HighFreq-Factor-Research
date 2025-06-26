@@ -1,0 +1,5 @@
+📋 LassoCV Factor Selection Report: JPM_resampled_30min_with_labels
+
+Selected Factors with Non-zero Coefficients:
+tradecount_mom_3   -0.099079
+momentum_20        -0.013776

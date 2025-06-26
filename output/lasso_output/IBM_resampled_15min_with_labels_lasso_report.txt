@@ -1,0 +1,5 @@
+📋 LassoCV Factor Selection Report: IBM_resampled_15min_with_labels
+
+Selected Factors with Non-zero Coefficients:
+tradecount_mom_3   -0.053432
+vol_mom_20         -0.001504

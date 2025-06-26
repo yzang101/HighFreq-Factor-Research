@@ -1,0 +1,6 @@
+📋 LassoCV Factor Selection Report: IBM_resampled_5min_with_labels
+
+Selected Factors with Non-zero Coefficients:
+amt_mom_3           -0.013100
+amt_mom_10          -0.000499
+tradecount_mom_10   -0.021324

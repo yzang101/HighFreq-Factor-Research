@@ -1,0 +1,26 @@
+📋 LassoCV Factor Selection Report: PFE_resampled_1min_with_labels
+
+Selected Factors with Non-zero Coefficients:
+momentum_3           0.027604
+cum_ret_3           -0.006208
+bias_3               0.006423
+vol_mom_3           -0.001664
+tradecount_mom_3    -0.003401
+momentum_5           0.020659
+cum_ret_5           -0.006014
+bias_5              -0.048669
+vol_mom_5           -0.004318
+amt_mom_5           -0.000384
+tradecount_mom_5    -0.004008
+momentum_10          0.010698
+cum_ret_10          -0.011597
+bias_10              0.011196
+vol_mom_10          -0.000242
+tradecount_mom_10   -0.001374
+momentum_20          0.012404
+cum_ret_20          -0.028906
+bias_20              0.015923
+amt_mom_20          -0.003195
+tradecount_mom_20   -0.001817
+price_vol_combo     -0.004927
+mom_diff             0.007844

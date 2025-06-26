@@ -1,0 +1,13 @@
+📋 LassoCV Factor Selection Report: GE_resampled_30min_with_labels
+
+Selected Factors with Non-zero Coefficients:
+cum_ret_3           -0.027095
+bias_3               0.038589
+tradecount_mom_3    -0.072620
+cum_ret_5           -0.003988
+vol_mom_5           -0.028523
+tradecount_mom_5    -0.018011
+tradecount_mom_10    0.000630
+tradecount_mom_20   -0.001980
+price_vol_combo      0.042791
+mom_diff             0.013500

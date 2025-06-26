@@ -1,0 +1,17 @@
+📊 Logistic Regression Evaluation for PG_resampled_15min_with_labels
+Accuracy: 0.5005
+AUC: 0.5019
+
+Confusion Matrix:
+[[260 241]
+ [244 226]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.52      0.52      0.52       501
+           1       0.48      0.48      0.48       470
+
+    accuracy                           0.50       971
+   macro avg       0.50      0.50      0.50       971
+weighted avg       0.50      0.50      0.50       971

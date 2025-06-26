@@ -1,0 +1,17 @@
+📊 Logistic Regression Evaluation for PFE_resampled_5min_with_labels
+Accuracy: 0.5494
+AUC: 0.4987
+
+Confusion Matrix:
+[[1581   30]
+ [1287   25]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.55      0.98      0.71      1611
+           1       0.45      0.02      0.04      1312
+
+    accuracy                           0.55      2923
+   macro avg       0.50      0.50      0.37      2923
+weighted avg       0.51      0.55      0.41      2923

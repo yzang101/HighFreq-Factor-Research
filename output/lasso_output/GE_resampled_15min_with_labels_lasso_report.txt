@@ -1,0 +1,14 @@
+📋 LassoCV Factor Selection Report: GE_resampled_15min_with_labels
+
+Selected Factors with Non-zero Coefficients:
+momentum_3           0.017630
+amt_mom_3            0.027314
+tradecount_mom_3    -0.070999
+momentum_5           0.000895
+tradecount_mom_5    -0.010734
+momentum_10         -0.008341
+cum_ret_10          -0.006865
+tradecount_mom_10   -0.018203
+vol_mom_20          -0.014321
+tradecount_mom_20    0.001506
+price_vol_combo      0.001148

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter运行输出等缓存
+*.nbconvert.ipynb
+*.out
+*.bak
+*.tmp
+
+# 项目输出文件
+results/
+models/
